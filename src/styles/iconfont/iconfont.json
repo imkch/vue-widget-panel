@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "32430174",
+      "name": "放大",
+      "font_class": "zoom-in",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "32430179",
+      "name": "缩小",
+      "font_class": "zoom-out",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "70516364",
+      "name": "放大",
+      "font_class": "close",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    }
+  ]
+}

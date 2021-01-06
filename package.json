@@ -1,6 +1,6 @@
 {
   "name": "vue-widget-panel",
-  "description": "",
+  "description": "基于vue.js实现内容自适应的部件面板组件",
   "version": "1.0.0",
   "private": true,
   "scripts": {

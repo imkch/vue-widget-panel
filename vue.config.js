@@ -5,7 +5,7 @@ module.exports = {
       entry: 'examples/main.js',
       template: 'public/index.html',
       filename: 'index.html',
-      title: 'Index Page'
+      title: '基于vue.js实现内容自适应的部件面板组件'
     }
   }
 }

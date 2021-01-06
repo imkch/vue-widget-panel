@@ -1,6 +1,16 @@
 .DS_Store
 node_modules
-
+examples
+dist
+src
+public
+vue.config.js
+.browserslistrc
+.editorconfig
+.eslintrc.js
+.gitignore
+.npmignore
+babel.config.js
 
 # local env files
 .env.local

@@ -2,6 +2,7 @@
   "name": "vue-widget-panel",
   "description": "基于vue.js实现内容自适应的部件面板组件",
   "version": "1.0.0",
+  "main": "lib/index.umd.min.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",

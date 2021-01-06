@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: process.env.NODE_ENV === 'production' ? '/vue-waterfall-render/dist/' : '/',
+  publicPath: process.env.NODE_ENV === 'production' ? '/vue-widget-panel/dist/' : '/',
   pages: {
     index: {
       entry: 'examples/main.js',
